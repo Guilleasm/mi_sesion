@@ -1,0 +1,5 @@
+Inicio
+<Obtener datos Tienda_1>
+<Limpiar datos>
+<Alojar datos en BD externa>
+Fin
