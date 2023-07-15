@@ -1,0 +1,5 @@
+Inicio
+<Obtener datos Productos mas vendidos de la tienda 1>
+<Limpiar datos>
+<Alojar datos en BD externa>
+Fin
